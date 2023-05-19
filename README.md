@@ -1,1 +1,1 @@
-# softeer_coding
+# 나의 노베이스 코테 준비
